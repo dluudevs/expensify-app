@@ -1,0 +1,10 @@
+{
+    "setupFiles": [
+        "raf/polyfill",
+        "<rootDir>/src/tests/setupTests.js"
+    ],
+    "_comment": "this file is required to tell jest to run the setup file, otherwise jest wont pick it up (does not have .test.js extension)",
+    "snapshotSerializers": [
+        "enzyme-to-json/serializer"
+    ] 
+}
