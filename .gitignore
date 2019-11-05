@@ -4,4 +4,4 @@ public/bundle.js.map
 public/styles.css
 public/styles.css.map
 
-# ignore the 4 asset files as they get generated when build is run. if they're uploaded there would be conflicts depending on which build you're using (dev or prod)
+# ignore the 4 asset files as they get generated when build is run. if they're uploaded there would be conflicts depending on which build you're using (dev or prod)    
